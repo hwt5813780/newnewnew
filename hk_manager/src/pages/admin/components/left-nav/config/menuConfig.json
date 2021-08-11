@@ -1,0 +1,60 @@
+[
+  {
+    "id": 1,
+    "title": "Dashboard",
+    "_key": "/home",
+    "icon": "icon iconfont icon-gongnengdingyi",
+    "parentID": 0
+  },
+  {
+    "id": 2,
+    "title": "Warehouse",
+    "_key": "/carlist",
+    "icon": "icon iconfont icon-yibiaopan",
+    "parentID": 0
+  },
+  {
+    "id": 3,
+    "title": "Car In",
+    "_key": "/lifejob",
+    "icon": "icon iconfont icon-fuwudiqiu",
+    "parentID": 0
+  },
+  {
+    "id": 4,
+    "title": "Car Out",
+    "_key": "/activities",
+    "icon": "icon iconfont icon-shenjing",
+    "parentID": 0
+  },
+  {
+    "id": 5,
+    "title": "Staff",
+    "_key": "/resource",
+    "icon": "icon iconfont icon-fabu",
+    "parentID": 0
+  },
+  {
+    "id": 6,
+    "title": "Setting",
+    "_key": "/setting",
+    "parentID": 0,
+    "icon": "icon iconfont icon-shezhi",
+    "children": [
+      {
+        "id": 7,
+        "title": "Account Setting",
+        "_key": "/setting/account",
+        "icon": "icon iconfont icon-changjingguanli",
+        "parentID": 6
+      },
+      {
+        "id": 8,
+        "title": "Fund details",
+        "_key": "/setting/member",
+        "icon": "icon iconfont icon-hezuohuobanmiyueguanli",
+        "parentID": 6
+      }
+    ]
+  }
+]

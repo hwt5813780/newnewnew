@@ -1,0 +1,20 @@
+.home {
+    height: 100%;
+    width: 100%;
+}
+
+.home .home-top {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.home .home-content {
+    margin-top:100px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.home .home-content .home-content-card {
+    width: 48%;
+}

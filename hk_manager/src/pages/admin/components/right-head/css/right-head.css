@@ -1,0 +1,50 @@
+.header {
+    background-color: #fff;
+    height: 48px;
+    padding: 0;
+    position: relative;
+}
+
+.header .trigger {
+    font-size: 18px;
+    font-weight: bolder;
+    line-height: 48px;
+    padding: 0 20px;
+    position: absolute;
+}
+
+.header .navbar-header {
+    height: 100%;
+    padding: 0 30px 0 70px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header .navbar-header .navbar-brand {
+    margin: 0;
+    color: #333;
+    font-size: 20px;
+    font-weight: bolder;
+    user-select: none;
+}
+
+.header .navbar-header .navbar-header-right {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    user-select: none;
+}
+
+.header .navbar-header .navbar-header-right .exit-btn {
+    border-radius: 10px;
+    margin-left: 30px;
+}
+
+.header .navbar-header .navbar-header-right span {
+    margin-left: 5px;
+}
+
+.admin-pane .admin-footer {
+    text-align: center;
+}

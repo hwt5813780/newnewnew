@@ -1,0 +1,8 @@
+.logo_admin{
+    height:80px;
+    background-image: url("login.png") ;
+    background-repeat:no-repeat;
+    background-position: left;
+    background-size: 150px;
+    margin-left: 20px;
+}

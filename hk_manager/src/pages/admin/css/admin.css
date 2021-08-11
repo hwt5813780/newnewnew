@@ -1,0 +1,14 @@
+/*左边导航*/
+.admin-pane {
+    min-height: 100%;
+}
+
+/*主面板*/
+.admin-pane .admin-content {
+    background-color: #fff;
+    margin: 24px 16px 0;
+    padding: 24px;
+    min-height: 500px;
+}
+
+/**/
